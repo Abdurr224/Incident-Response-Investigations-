@@ -1,4 +1,4 @@
-Analysis reports for malicious PCAPs leveraging Netowrk Miner and Wireshark
+Analysis reports for malicious PCAPs leveraging Network Miner and Wireshark
 
 
 
