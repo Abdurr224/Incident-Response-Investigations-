@@ -3,5 +3,4 @@
 
 
 
-![NetworkMiner_logo_313x313](https://github.com/user-attachments/assets/e103c02e-493e-4db4-afd7-6541c68d4d00)
-
+![incident-response-and-investigation](https://github.com/user-attachments/assets/84dd7330-d219-4c9a-84d4-e434d552836d)
