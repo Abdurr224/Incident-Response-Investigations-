@@ -1,4 +1,5 @@
-Analysis reports for malicious PCAPs leveraging Network Miner and Wireshark
+- A full investigation process and analysis report for malicious PCAPs leveraging Network Miner, Wireshark and OSINT tools.
+- A comprehensive report on IOC investigation findings with remediation measures following the incident response framework and Mitre Attack TTP. 
 
 
 
